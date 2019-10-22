@@ -6,14 +6,12 @@ Satellit is a web application which we built for Space Apps Waterloo Challenge -
 
 This project has been built using React, PostgreSQL, NodeJS, n2yo API, Wikipedia API.
 
-## Appointment Landing
-!["Appointment Landing"](https://github.com/arturaszuta/scheduler/blob/master/docs/appointment-landing.png)
 
-## Appointment Form
-!["Appointment Form"](https://github.com/arturaszuta/scheduler/blob/master/docs/appointment-form.png)
+!["Satellit - 1"](https://github.com/arturaszuta/satellite-go/screenshots/satellit1.png)
 
-## Appointment Result
-!["Appointment Result"](https://github.com/arturaszuta/scheduler/blob/master/docs/appointment-result.png)
+!["Satellit - 1"](https://github.com/arturaszuta/satellite-go/screenshots/satellit2.png)
+
+!["Satellit - 1"](https://github.com/arturaszuta/satellite-go/screenshots/satellit3.png)
 
 ## Setup
 
