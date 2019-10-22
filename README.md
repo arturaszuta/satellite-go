@@ -7,11 +7,11 @@ Satellit is a web application which we built for Space Apps Waterloo Challenge -
 This project has been built using React, PostgreSQL, NodeJS, n2yo API, Wikipedia API.
 
 
-!["Satellit - 1"](https://github.com/arturaszuta/satellite-go/screenshots/satellit1.png)
+!["Satellit - 1"](https://github.com/arturaszuta/satellite-go/blob/master/screenshots/satellit1.png)
 
-!["Satellit - 1"](https://github.com/arturaszuta/satellite-go/screenshots/satellit2.png)
+!["Satellit - 1"](https://github.com/arturaszuta/satellite-go/blob/master/screenshots/satellit2.png)
 
-!["Satellit - 1"](https://github.com/arturaszuta/satellite-go/screenshots/satellit3.png)
+!["Satellit - 1"](https://github.com/arturaszuta/satellite-go/blob/master/screenshots/satellit3.png)
 
 ## Setup
 
